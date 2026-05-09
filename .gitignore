@@ -1,0 +1,7 @@
+results/
+runs.db
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
