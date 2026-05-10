@@ -1,6 +1,6 @@
 # GTM Stakeholder Intelligence
 
-Youtube Video Link: https://youtu.be/jssdf0qK9F4
+Youtube Demo Video Link: https://youtu.be/jssdf0qK9F4
 
 Prototype for turning certificate-of-service filings into a stakeholder graph
 and GTM benchmark output.
