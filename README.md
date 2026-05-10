@@ -1,4 +1,4 @@
-# GTM Stakeholder Intelligence
+# RateCase GTM Stakeholder Intelligence
 
 Youtube Demo Video Link: https://youtu.be/jssdf0qK9F4
 
